@@ -1,0 +1,21 @@
+@media print {
+    .navbar{
+        visibility: hidden;
+    }
+
+    .btn{
+        visibility: hidden;
+    }
+
+    .customer{
+        width: 33% !important;
+    }
+
+    .company{
+        width: 33% !important;
+    }
+
+    .paymentInfo{
+        width: 33% !important;
+    }
+ }
